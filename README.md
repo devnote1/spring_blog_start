@@ -3,8 +3,8 @@
 ## 기술스택
 
 - Springboot 2.7
-- JDK 11
-- VSCODE
+- JDK 17
+- STS
 - MySQL8.0
 
 ## 의존성
